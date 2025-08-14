@@ -1,5 +1,11 @@
 # @repo/ui
 
+## 1.3.0
+
+### Minor Changes
+
+- this updates the text for this and that
+
 ## 1.2.0
 
 ### Minor Changes
