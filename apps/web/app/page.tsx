@@ -35,6 +35,7 @@ export default function Home() {
           <li>
             Get started by editing <code>apps/web/app/page.tsx</code>
           </li>
+          <li>This is a new line</li>
         </ol>
 
         <div className={styles.ctas}>
