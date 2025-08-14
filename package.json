@@ -10,11 +10,14 @@
     "check-types": "turbo run check-types",
     "prepare": "husky",
     "test": "echo \"Great success!\" && exit 0",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "cs": "changeset",
+    "cs:version": "changeset version"
   },
   "devDependencies": {
     "@changesets/changelog-git": "^0.2.1",
     "@changesets/changelog-github": "^0.5.1",
+    "@changesets/cli": "^2.29.5",
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
     "@commitlint/cz-commitlint": "^19.8.1",
