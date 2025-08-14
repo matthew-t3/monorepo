@@ -1,5 +1,15 @@
 # web
 
+## 1.2.0
+
+### Minor Changes
+
+- [#16](https://github.com/matthew-t3/monorepo/pull/16) [`55a44df`](https://github.com/matthew-t3/monorepo/commit/55a44dfc43ac852639f1219aaa6e52a5a2eb0d1f) Thanks [@matthew-t3](https://github.com/matthew-t3)! - feat: add new line
+
+### Patch Changes
+
+- [#22](https://github.com/matthew-t3/monorepo/pull/22) [`334925a`](https://github.com/matthew-t3/monorepo/commit/334925ad267bff580260841963ac75c37d8c8782) Thanks [@matthew-t3](https://github.com/matthew-t3)! - fix(docs): remove unecessary line
+
 ## 1.1.2
 
 ### Patch Changes
