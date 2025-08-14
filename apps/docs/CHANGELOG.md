@@ -1,5 +1,11 @@
 # docs
 
+## 1.1.2
+
+### Patch Changes
+
+- [#9](https://github.com/matthew-t3/monorepo/pull/9) [`1b3fd99`](https://github.com/matthew-t3/monorepo/commit/1b3fd992ad24d82b3dfbc7452ee64afefe788b46) Thanks [@matthew-t3](https://github.com/matthew-t3)! - fix(docs): remove footer extra texts
+
 ## 1.1.1
 
 ### Patch Changes
