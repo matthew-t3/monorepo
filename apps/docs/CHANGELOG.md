@@ -1,5 +1,14 @@
 # docs
 
+## 1.1.4
+
+### Patch Changes
+
+- this updates the text for this and that
+
+- Updated dependencies []:
+  - @repo/ui@1.3.0
+
 ## 1.1.3
 
 ### Patch Changes
