@@ -80,7 +80,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Examples To do
+          Examples
         </a>
         <a
           href="https://turborepo.com?utm_source=create-turbo"
